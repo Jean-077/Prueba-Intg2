@@ -37,7 +37,7 @@
     </li>
 
     <div class="container mx-auto">
-        <x-alert/>
+        <x-alert color="green"/>
     </div>
 </body>
 </html>
